@@ -1,11 +1,10 @@
-package net.funtika.game.2048;
+package net.funtika.game.m2048;
 
 import org.robovm.apple.foundation.NSAutoreleasePool;
 import org.robovm.apple.uikit.UIApplication;
 
 import com.badlogic.gdx.backends.iosrobovm.IOSApplication;
 import com.badlogic.gdx.backends.iosrobovm.IOSApplicationConfiguration;
-import net.funtika.game.2048.MainGdx;
 
 public class IOSLauncher extends IOSApplication.Delegate {
     @Override

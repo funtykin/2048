@@ -1,8 +1,9 @@
-package net.funtika.game.2048.desktop;
+package net.funtika.game.m2048.desktop;
+
+import net.funtika.game.m2048.MainGdx;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import net.funtika.game.2048.MainGdx;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {

@@ -1,10 +1,10 @@
-package net.funtika.game.2048.android;
+package net.funtika.game.m2048.android;
 
+import net.funtika.game.m2048.MainGdx;
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import net.funtika.game.2048.MainGdx;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override

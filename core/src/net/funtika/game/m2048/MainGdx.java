@@ -1,4 +1,4 @@
-package net.funtika.game.2048;
+package net.funtika.game.m2048;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;

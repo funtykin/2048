@@ -1,9 +1,10 @@
-package net.funtika.game.2048.client;
+package net.funtika.game.m2048.client;
+
+import net.funtika.game.m2048.MainGdx;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import net.funtika.game.2048.MainGdx;
 
 public class HtmlLauncher extends GwtApplication {
 
